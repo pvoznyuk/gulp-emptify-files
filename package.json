@@ -1,0 +1,26 @@
+{
+  "name": "gulp-emptify-files",
+  "version": "0.0.1",
+  "description": "Takes files and makes them empty",
+  "license": "MIT",
+  "repository": "pvoznyuk/gulp-emptify-files",
+  "author": {
+    "name": "Pavlo Vozniuk",
+    "email": "antipsih@ukr.net"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {  }
+}
