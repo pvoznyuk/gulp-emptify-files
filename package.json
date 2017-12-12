@@ -1,6 +1,6 @@
 {
   "name": "gulp-emptify-files",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Takes files and makes them empty",
   "license": "MIT",
   "repository": "pvoznyuk/gulp-emptify-files",

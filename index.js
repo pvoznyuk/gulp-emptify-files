@@ -17,7 +17,7 @@ module.exports = function (opts) {
 		}
 
 		try {
-			file.contents = new Buffer('', opts));
+			file.contents = new Buffer('');
 			this.push(file);
 		} catch (err) {
 			this.emit('error', new gutil.PluginError('gulp-emptify-files', err));
